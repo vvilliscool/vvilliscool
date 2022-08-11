@@ -5,7 +5,12 @@
 
 ### 머신러닝 클래스
 * 내용 : ML / DL / Kaggle
-- 해당 저정소 이동 : [바로가기](https://github.com/vvilliscool/ML_LIB_Class_Goorm)
+- 해당 저장소 이동 : [바로가기](https://github.com/vvilliscool/ML_LIB_Class_Goorm)
+
+### 캐글 스터디
+* 내용 : Kaggle Competitions
+- 해당 저장소 이동 : [바로가기](https://github.com/vvilliscool/study_kaggle)
+
 
 
 <!--
