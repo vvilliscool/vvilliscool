@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on Kaggle AMEX prediction
 - 🌱 I’m currently learning ML and DL
-- Using as main <img src="https://img.shields.io/badge/python-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
 ### 머신러닝 클래스
 * 내용 : ML / DL / Kaggle
