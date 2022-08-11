@@ -7,6 +7,10 @@
 * 내용 : ML / DL / Kaggle
 - 해당 저장소 이동 : [바로가기](https://github.com/vvilliscool/ML_LIB_Class_Goorm)
 
+### 빅데이터 분석기사 (Certificate)
+* 내용 : Python, Bigdata, Certificate practice
+- 해당 저장소 이동 : [바로가기](https://github.com/vvilliscool/study_certificate)
+
 ### 캐글 스터디
 * 내용 : Kaggle Competitions
 - 해당 저장소 이동 : [바로가기](https://github.com/vvilliscool/study_kaggle)
