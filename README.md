@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Kaggle AMEX prediction
 - 🌱 I’m currently learning ML and DL
-- 
+- Using as main <img src="https://img.shields.io/badge/python-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
 ### 머신러닝 클래스
 * 내용 : ML / DL / Kaggle
@@ -21,6 +21,11 @@
 ### Kaggle Competition (On Going) - private mode
 * 내용 : American Express - default prediction
 - 해당 저장소 이동 : someday open
+
+
+![vvilliscool's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvilliscool&show_icons=true&theme=outrun)
+
+
 
 
 <!--
