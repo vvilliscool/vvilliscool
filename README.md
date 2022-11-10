@@ -17,7 +17,7 @@
 * 내용 : Kaggle Competitions
 - 해당 저장소 이동 : [바로가기](https://github.com/vvilliscool/study_kaggle)
 
-### Kaggle Competition (On Going) - private mode
+### Kaggle Competition (Finished) - private mode
 * 내용 : American Express - default prediction
 - 해당 저장소 이동 : someday open
 
