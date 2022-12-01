@@ -19,7 +19,7 @@
 
 ### Kaggle Competition (Finished) - private mode
 * 내용 : American Express - default prediction
-- 해당 저장소 이동 : someday open
+- 해당 저장소 이동 : [바로가기](https://github.com/vvilliscool/kaggle_AMEX)
 
 
 ![vvilliscool's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvilliscool&show_icons=true&theme=outrun)
